@@ -40,7 +40,7 @@
   }
   
   div .calculator form .display input {
-    text-align: right; /* Aligns the text inside the display input elements to the right */
+    text-align: left; /* Aligns the text inside the display input elements to the right */
     flex: 1; /* Allows the display input elements to grow and fill the available space */
     box-shadow: none; /* Removes the box shadow from the display input elements */
   }
