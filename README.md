@@ -1,0 +1,6 @@
+# Calculator-Built-with-HTML-CSS-and-JavaScript-Beginner-Friendly-Explanation
+
+Some Notes:
+In the context of slice(0, -1), the starting index is 0, which means the extraction will begin from the first character of the string. 
+The ending index is -1, which indicates that the extraction will stop at the second-to-last character of the string.
+
